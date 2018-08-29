@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 # Author:Frank
-
+# 通过用户输入判断BMI指数，体重是否超标。
 age = input("age(year)")
 sex = input("性别：男/女")
 height = input("height(m)")
